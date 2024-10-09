@@ -1,0 +1,23 @@
+
+h1, p {
+    text-align: center;
+}
+
+form {
+    width: 400px;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid;
+}
+
+input {
+    margin: 5px;
+}
+
+label {
+    display: block;
+}
+
+.error {
+    color: red;
+}
